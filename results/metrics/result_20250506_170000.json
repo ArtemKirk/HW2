@@ -1,0 +1,13 @@
+{
+    "features": [
+        "drive.current_mean_45_len_10_shift"
+    ],
+    "metrics": {
+        "mae": 0.9743963220761364,
+        "mae_baseline": 0.9656721536351165,
+        "mae_baseline_shift": 1.1934579439252333,
+        "same_direction_ratio": 0.0,
+        "mse": 1.5806437184219382
+    },
+    "timestamp": "20250506_170000"
+}
